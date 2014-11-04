@@ -1,1 +1,9 @@
-baseurl: /jekyll_demo
+name: "三又"
+description: "jekyll example"
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
