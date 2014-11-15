@@ -1,8 +1,0 @@
-name: "三又"
-description: "jekyll example"
-
-baseurl: /Ep0st
-paginate: 10
-
-markdown: rdiscount
-permalink: pretty
