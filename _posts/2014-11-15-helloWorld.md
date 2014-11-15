@@ -2,7 +2,7 @@
 layout: post
 title: "hello world"
 date: 2014-10-15 16:25:06 -0700
-comments: true
+comments: 
 ---
 
 * /**
@@ -10,6 +10,6 @@ comments: true
 *  */
 * public class HelloWorld {
  *    public static void main(String[] args) {
- *        System.out.println("Hello World!");
+ *        System.out.println("此开卷第一回也!");
  *    }
 * }
