@@ -6,7 +6,7 @@ comments:
 
 ---
 
-####scala cheat sheet
+#### scala cheat sheet
 来源于网上教程[http://brenocon.com/scalacheat/](http://brenocon.com/scalacheat/)
 
 |variables| |
